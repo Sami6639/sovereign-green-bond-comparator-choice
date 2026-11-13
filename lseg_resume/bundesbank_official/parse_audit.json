@@ -1,0 +1,803 @@
+{
+  "files": 80,
+  "rows": 123242,
+  "errors": [
+    [
+      "2023-12-excel-data.xlsx",
+      "22.12.2203",
+      "sheet date corrected using file year/month"
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "03.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "04.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "05.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "08.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "09.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "10.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "11.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "12.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "15.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "16.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "17.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "18.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "19.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "22.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "23.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "24.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "25.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "26.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "29.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "30.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-07-excel-data.xlsx",
+      "31.07.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "01.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "02.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "05.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "06.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "07.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "08.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "09.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "12.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "14.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "15.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "16.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "19.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "20.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "21.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "22.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "23.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "26.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "28.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "29.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-08-excel-data.xlsx",
+      "30.08.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "02.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "03.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "04.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "05.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "06.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "09.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "10.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "11.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "12.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "13.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "16.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "17.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "18.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "19.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "20.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "23.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "24.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "25.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "26.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "27.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-09-excel-data.xlsx",
+      "30.09.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "01.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "02.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "03.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "04.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "07.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "08.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "09.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "10.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "11.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "14.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "15.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "16.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "17.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "18.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "21.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "22.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "23.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "24.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "25.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "28.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "29.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "30.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-10-excel-data.xlsx",
+      "31.10.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "01.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "04.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "05.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "06.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "07.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "08.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "11.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "12.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "13.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "14.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "15.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "18.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "19.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "20.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "21.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "22.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "25.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "26.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "27.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "28.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-11-excel-data.xlsx",
+      "29.11.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "02.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "03.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "04.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "05.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "06.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "09.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "10.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "11.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "12.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "13.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "16.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "17.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "18.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "19.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "20.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "23.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "27.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2024-12-excel-data.xlsx",
+      "30.12.2024",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2025-01-excel-data.xlsx",
+      "02.01.2025",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2025-01-excel-data.xlsx",
+      "03.01.2025",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2025-01-excel-data.xlsx",
+      "06.01.2025",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2025-01-excel-data.xlsx",
+      "07.01.2025",
+      "missing ISIN checksum rows excluded",
+      1
+    ],
+    [
+      "2025-10-excel-data.xlsx",
+      "15.05.2025",
+      "sheet date corrected using file year/month"
+    ],
+    [
+      "2026-01-excel-data.xlsx",
+      "02.01.2026",
+      "missing ISIN checksum rows excluded",
+      3
+    ],
+    [
+      "2026-01-excel-data.xlsx",
+      "05.01.2026",
+      "missing ISIN checksum rows excluded",
+      3
+    ],
+    [
+      "2026-01-excel-data.xlsx",
+      "06.01.2026",
+      "missing ISIN checksum rows excluded",
+      3
+    ]
+  ],
+  "pair_rows": 9553
+}

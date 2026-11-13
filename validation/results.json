@@ -1,0 +1,10 @@
+{
+  "fair_shared_metrics.csv": "PASS: rerun matches supplied output",
+  "fair_shared_sign.csv": "PASS: rerun matches supplied output",
+  "fair_shared_leave_one_out.csv": "PASS: rerun matches supplied output",
+  "bootstrap": "PASS: exact JSON match",
+  "sample": "PASS: 8872 rows; 10 twins; 1491 dates; unique twin-date keys",
+  "syntax": "PASS: 9 Python scripts compile",
+  "figures": "PASS: three figures regenerated in PNG/PDF/SVG",
+  "full_network_pipeline": "NOT RUN: existing frozen intermediate files were used; upstream parsing, duration and NSS refitting were not rerun"
+}

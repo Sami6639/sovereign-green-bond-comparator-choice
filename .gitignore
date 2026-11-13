@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.pem
+*.key
+*.xlsx
+*.parquet
+terms_html/
+*.docx

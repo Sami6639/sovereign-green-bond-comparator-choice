@@ -1,0 +1,482 @@
+[
+  {
+    "url": "https://www.bundesbank.de/resource/blob/972740/f0f6025ebe94daabb04cc4f9e71599df/472B63F073F071307366337C94F8C870/2026-11-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2026-11-excel-data.xlsx",
+    "bytes": 67397,
+    "index_page": 0
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/972766/18317aed508a2d70289dbb8bad39562a/472B63F073F071307366337C94F8C870/2026-10-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2026-10-excel-data.xlsx",
+    "bytes": 157568,
+    "index_page": 0
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/972746/b63a92cc02fe47d0ecdeb1316c0192eb/472B63F073F071307366337C94F8C870/2026-09-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2026-09-excel-data.xlsx",
+    "bytes": 156943,
+    "index_page": 0
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/972742/c193085297c12920669df4c9cf945a41/472B63F073F071307366337C94F8C870/2026-08-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2026-08-excel-data.xlsx",
+    "bytes": 151392,
+    "index_page": 0
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/972730/5b841e17900ed78be66567d4e9f1ed62/472B63F073F071307366337C94F8C870/2026-07-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2026-07-excel-data.xlsx",
+    "bytes": 164422,
+    "index_page": 0
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/972772/0c60ee7d1fee15bb18dc52266a4a13a4/472B63F073F071307366337C94F8C870/2026-06-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2026-06-excel-data.xlsx",
+    "bytes": 229350,
+    "index_page": 1
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/972762/624b6d13b1ee26d0ab2a26d5c488e913/472B63F073F071307366337C94F8C870/2026-05-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2026-05-excel-data.xlsx",
+    "bytes": 210717,
+    "index_page": 1
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/972770/3a84a4b5792fa63f952e32967ab46cf3/472B63F073F071307366337C94F8C870/2026-04-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2026-04-excel-data.xlsx",
+    "bytes": 204948,
+    "index_page": 1
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/972748/efe98658adffba55d066887609e21537/472B63F073F071307366337C94F8C870/2026-03-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2026-03-excel-data.xlsx",
+    "bytes": 231804,
+    "index_page": 1
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/972760/413ad19a38fd0bb4846446b484503522/472B63F073F071307366337C94F8C870/2026-02-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2026-02-excel-data.xlsx",
+    "bytes": 207209,
+    "index_page": 1
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/972750/27fb1c2ed1fbb67fb2d0bbb011525cfe/472B63F073F071307366337C94F8C870/2026-01-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2026-01-excel-data.xlsx",
+    "bytes": 212114,
+    "index_page": 2
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947258/d429fd41c0855fb7c5f4b830f1a54f45/472B63F073F071307366337C94F8C870/2025-12-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-12-excel-data.xlsx",
+    "bytes": 191305,
+    "index_page": 2
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947238/ee2b02b910513ed9f5c3c981714dde65/472B63F073F071307366337C94F8C870/2025-11-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-11-excel-data.xlsx",
+    "bytes": 201004,
+    "index_page": 2
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947256/f18bd63811fc09bd2585101bfcae7c50/472B63F073F071307366337C94F8C870/2025-10-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-10-excel-data.xlsx",
+    "bytes": 229791,
+    "index_page": 2
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947250/07c525887b26b062ca1b22efc9347a78/472B63F073F071307366337C94F8C870/2025-09-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-09-excel-data.xlsx",
+    "bytes": 222930,
+    "index_page": 2
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947240/a26c3380d019a1723e8003118d3ff98a/472B63F073F071307366337C94F8C870/2025-08-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-08-excel-data.xlsx",
+    "bytes": 214176,
+    "index_page": 3
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947248/ef693fbbed4d63eed6e96335e10e91e4/472B63F073F071307366337C94F8C870/2025-07-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-07-excel-data.xlsx",
+    "bytes": 235654,
+    "index_page": 3
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947268/00c341b2bc7022f60c6b540e7071e22f/472B63F073F071307366337C94F8C870/2025-06-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-06-excel-data.xlsx",
+    "bytes": 213984,
+    "index_page": 3
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947244/0fe1a24a613c4c23c37061b3bfa5ba81/472B63F073F071307366337C94F8C870/2025-05-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-05-excel-data.xlsx",
+    "bytes": 211900,
+    "index_page": 3
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947266/94e5428f5e838ccd89da0bf774c9fa6f/472B63F073F071307366337C94F8C870/2025-04-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-04-excel-data.xlsx",
+    "bytes": 203737,
+    "index_page": 3
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947252/90f8409e2321e14db1e1a46b5bdfe5a8/472B63F073F071307366337C94F8C870/2025-03-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-03-excel-data.xlsx",
+    "bytes": 219094,
+    "index_page": 4
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947242/9b2ad3a68c430b410bc548f5f201e9a6/472B63F073F071307366337C94F8C870/2025-02-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-02-excel-data.xlsx",
+    "bytes": 208941,
+    "index_page": 4
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/947262/a5df42430be2196c3a377bba11499eb1/472B63F073F071307366337C94F8C870/2025-01-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2025-01-excel-data.xlsx",
+    "bytes": 228210,
+    "index_page": 4
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920004/f80e30b62028760a17ff2ed0d11da49f/472B63F073F071307366337C94F8C870/2024-12-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-12-excel-data.xlsx",
+    "bytes": 185591,
+    "index_page": 4
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920030/d8597f17a091b252a992ed98ccae702e/472B63F073F071307366337C94F8C870/2024-11-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-11-excel-data.xlsx",
+    "bytes": 214297,
+    "index_page": 4
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920036/02cca786bafe0c5980dbe7975f50c97a/472B63F073F071307366337C94F8C870/2024-10-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-10-excel-data.xlsx",
+    "bytes": 232385,
+    "index_page": 5
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920024/b35dc9d256fc5904d471e725ffcf6388/472B63F073F071307366337C94F8C870/2024-09-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-09-excel-data.xlsx",
+    "bytes": 214022,
+    "index_page": 5
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920016/2140b50ddf6aa547654a9b773eefa8bb/472B63F073F071307366337C94F8C870/2024-08-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-08-excel-data.xlsx",
+    "bytes": 225627,
+    "index_page": 5
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920006/b9045497c643304e2b66e3b5603d8fd9/472B63F073F071307366337C94F8C870/2024-07-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-07-excel-data.xlsx",
+    "bytes": 241244,
+    "index_page": 5
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920042/62e00989d2e0ba099736a8a0de02c352/472B63F073F071307366337C94F8C870/2024-06-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-06-excel-data.xlsx",
+    "bytes": 209013,
+    "index_page": 5
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920028/df9e827b490d719dc33a615ef8bf7bea/472B63F073F071307366337C94F8C870/2024-05-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-05-excel-data.xlsx",
+    "bytes": 230711,
+    "index_page": 6
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920010/18c862b382ebfe15302843a870ceda3e/472B63F073F071307366337C94F8C870/2024-04-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-04-excel-data.xlsx",
+    "bytes": 221363,
+    "index_page": 6
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920034/9bc9c84cecfbde5c4d482e2426abe69d/472B63F073F071307366337C94F8C870/2024-03-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-03-excel-data.xlsx",
+    "bytes": 210849,
+    "index_page": 6
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920026/57348255fce8a4ca18f48b6af31d87ca/472B63F073F071307366337C94F8C870/2024-02-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-02-excel-data.xlsx",
+    "bytes": 223575,
+    "index_page": 6
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/920032/c511964d8edc1f9e6c6c0666b3d1fbcf/472B63F073F071307366337C94F8C870/2024-01-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2024-01-excel-data.xlsx",
+    "bytes": 222527,
+    "index_page": 6
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901932/7661513926d8ed53157335ac88e7948b/472B63F073F071307366337C94F8C870/2023-12-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-12-excel-data.xlsx",
+    "bytes": 197337,
+    "index_page": 7
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901956/2c47f4a3b0599d34f49a4cf3855d1e86/472B63F073F071307366337C94F8C870/2023-11-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-11-excel-data.xlsx",
+    "bytes": 228241,
+    "index_page": 7
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901958/fc9684c8bbbb8b364c247388b228202d/472B63F073F071307366337C94F8C870/2023-10-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-10-excel-data.xlsx",
+    "bytes": 227537,
+    "index_page": 7
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901948/63ec7fd801d0cc60901da57607dc6294/472B63F073F071307366337C94F8C870/2023-09-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-09-excel-data.xlsx",
+    "bytes": 209877,
+    "index_page": 7
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901938/8e1dd07ca73808bf6ba05ab56568e98d/472B63F073F071307366337C94F8C870/2023-08-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-08-excel-data.xlsx",
+    "bytes": 240542,
+    "index_page": 7
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901928/37afebf63201a80539fae1a12b1e4472/472B63F073F071307366337C94F8C870/2023-07-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-07-excel-data.xlsx",
+    "bytes": 222165,
+    "index_page": 8
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901968/979284ec453d85370590627e447b8568/472B63F073F071307366337C94F8C870/2023-06-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-06-excel-data.xlsx",
+    "bytes": 226406,
+    "index_page": 8
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901944/fbbdfad44bb15162e39fdf19be07f27d/472B63F073F071307366337C94F8C870/2023-05-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-05-excel-data.xlsx",
+    "bytes": 222686,
+    "index_page": 8
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901942/521e2e1e367260eda034e7e5235ed437/472B63F073F071307366337C94F8C870/2023-04-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-04-excel-data.xlsx",
+    "bytes": 185209,
+    "index_page": 8
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901946/9e688b9c1dac4eb2ae8f297891464142/472B63F073F071307366337C94F8C870/2023-03-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-03-excel-data.xlsx",
+    "bytes": 235375,
+    "index_page": 8
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901940/c61f5b6163175e91ad578baca79cbeb7/472B63F073F071307366337C94F8C870/2023-02-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-02-excel-data.xlsx",
+    "bytes": 208037,
+    "index_page": 9
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901952/653459957f139da95acd7fe1aa3cd774/472B63F073F071307366337C94F8C870/2023-01-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2023-01-excel-data.xlsx",
+    "bytes": 226918,
+    "index_page": 9
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/901124/6af73fd9bf828fb1df4f2e383ee3dfd1/472B63F073F071307366337C94F8C870/2022-12-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-12-excel-data.xlsx",
+    "bytes": 219745,
+    "index_page": 9
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/899164/4c678734a9c081aebde618b2d1fb36bc/472B63F073F071307366337C94F8C870/2022-11-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-11-excel-data.xlsx",
+    "bytes": 224537,
+    "index_page": 9
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/897342/281da3a6bf7772f2752ec87d8b5102d4/472B63F073F071307366337C94F8C870/2022-10-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-10-excel-data.xlsx",
+    "bytes": 217216,
+    "index_page": 9
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/896080/2c10e7638af5ed362827c5ef42625c6b/472B63F073F071307366337C94F8C870/2022-09-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-09-excel-data.xlsx",
+    "bytes": 226615,
+    "index_page": 10
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/895044/1972fc3bc8969527d97e9792b115cbcc/472B63F073F071307366337C94F8C870/2022-08-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-08-excel-data.xlsx",
+    "bytes": 237224,
+    "index_page": 10
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/893420/76a2ba65c504822a7668e48b3492c439/472B63F073F071307366337C94F8C870/2022-07-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-07-excel-data.xlsx",
+    "bytes": 216667,
+    "index_page": 10
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/891862/48ac62b4f30dd781b784c0ceb4a944da/472B63F073F071307366337C94F8C870/2022-06-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-06-excel-data.xlsx",
+    "bytes": 219442,
+    "index_page": 10
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/889796/c6ed8516c41938e18762c43e9fb3554a/472B63F073F071307366337C94F8C870/2022-05-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-05-excel-data.xlsx",
+    "bytes": 223955,
+    "index_page": 10
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/888292/c61cd1fe9a67131f2074cd0b25d37849/472B63F073F071307366337C94F8C870/2022-04-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-04-excel-data.xlsx",
+    "bytes": 192627,
+    "index_page": 11
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/885754/f234d4b596c0b6f65f1813a6ca29fb51/472B63F073F071307366337C94F8C870/2022-03-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-03-excel-data.xlsx",
+    "bytes": 230791,
+    "index_page": 11
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/883706/dd9a83bcf842eb5129d948242d25ecb5/472B63F073F071307366337C94F8C870/2022-02-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-02-excel-data.xlsx",
+    "bytes": 202692,
+    "index_page": 11
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/881876/ff6535e6863676e8bcc685a75fed8a64/472B63F073F071307366337C94F8C870/2022-01-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2022-01-excel-data.xlsx",
+    "bytes": 207790,
+    "index_page": 11
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/880788/1237a90093147aad500ff1806cb08081/472B63F073F071307366337C94F8C870/2021-12-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-12-excel-data.xlsx",
+    "bytes": 207652,
+    "index_page": 11
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/878972/a7910d7310b8e625365333a0069c931a/472B63F073F071307366337C94F8C870/2021-11-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-11-excel-data.xlsx",
+    "bytes": 223281,
+    "index_page": 12
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/875482/8bff9278cfda81e3f185cf9f72809d26/472B63F073F071307366337C94F8C870/2021-10-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-10-excel-data.xlsx",
+    "bytes": 208752,
+    "index_page": 12
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/873924/8d444044eb27aa9051ada231bfd16a15/472B63F073F071307366337C94F8C870/2021-09-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-09-excel-data.xlsx",
+    "bytes": 225660,
+    "index_page": 12
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/869456/4fabf34ea670310ff4d4f7505049fbb2/472B63F073F071307366337C94F8C870/2021-08-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-08-excel-data.xlsx",
+    "bytes": 222545,
+    "index_page": 12
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/867646/904aa4282cfe03b2459657ec16a467dc/472B63F073F071307366337C94F8C870/2021-07-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-07-excel-data.xlsx",
+    "bytes": 214997,
+    "index_page": 12
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/866908/f98b6955c60ab27b97f0fd97465e8e9a/472B63F073F071307366337C94F8C870/2021-06-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-06-excel-data.xlsx",
+    "bytes": 213494,
+    "index_page": 13
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/864924/3ebf699be419f68f775f872c819af48d/472B63F073F071307366337C94F8C870/2021-05-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-05-excel-data.xlsx",
+    "bytes": 195249,
+    "index_page": 13
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/862950/e1545afe0182600ae20bcdb2184531fa/472B63F073F071307366337C94F8C870/2021-04-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-04-excel-data.xlsx",
+    "bytes": 196599,
+    "index_page": 13
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/860148/596263cf6d6faab11b6562d24c87b702/472B63F073F071307366337C94F8C870/2021-03-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-03-excel-data.xlsx",
+    "bytes": 229955,
+    "index_page": 13
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/858200/2f3d97beba710f6ddd193c4d0ad62665/472B63F073F071307366337C94F8C870/2021-02-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-02-excel-data.xlsx",
+    "bytes": 196261,
+    "index_page": 13
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/855464/e0e706461acf0f74770def124396782f/472B63F073F071307366337C94F8C870/2021-01-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2021-01-excel-data.xlsx",
+    "bytes": 191878,
+    "index_page": 14
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/852102/1d2952fd0720d7904866123cd35a51c2/472B63F073F071307366337C94F8C870/2020-12-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2020-12-excel-data.xlsx",
+    "bytes": 191436,
+    "index_page": 14
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/849424/274db2b326ebeacb979c513e2ac5edd6/472B63F073F071307366337C94F8C870/2020-11-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2020-11-excel-data.xlsx",
+    "bytes": 222303,
+    "index_page": 14
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/846080/d5cdcb8b8393cbc7477b84d1c92f94d3/472B63F073F071307366337C94F8C870/2020-10-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2020-10-excel-data.xlsx",
+    "bytes": 213378,
+    "index_page": 14
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/842960/7fd7062a83f5dba4e382a96d6bf546b7/472B63F073F071307366337C94F8C870/2020-09-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2020-09-excel-data.xlsx",
+    "bytes": 215853,
+    "index_page": 14
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/839172/65d7d4a0cc08c8e5ee3ebba5c21055f2/472B63F073F071307366337C94F8C870/2020-08-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2020-08-excel-data.xlsx",
+    "bytes": 205993,
+    "index_page": 15
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/836002/5b4506c7d39659d681cfc5f96ad47263/472B63F073F071307366337C94F8C870/2020-07-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2020-07-excel-data.xlsx",
+    "bytes": 225351,
+    "index_page": 15
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/834208/e160fd4c493193f2187cb94b0a280edb/472B63F073F071307366337C94F8C870/2020-06-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2020-06-excel-data.xlsx",
+    "bytes": 206774,
+    "index_page": 15
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/832250/490a0fc4085a23a60663d42ff25306ce/472B63F073F071307366337C94F8C870/2020-05-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2020-05-excel-data.xlsx",
+    "bytes": 193347,
+    "index_page": 15
+  },
+  {
+    "url": "https://www.bundesbank.de/resource/blob/829840/30a6608baf791c731ca5129222d74cd5/472B63F073F071307366337C94F8C870/2020-04-excel-data.xlsx",
+    "file": "lseg_resume/bundesbank_official/2020-04-excel-data.xlsx",
+    "bytes": 190812,
+    "index_page": 15
+  }
+]

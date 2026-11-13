@@ -1,0 +1,1442 @@
+[
+  {
+    "isin": "DE0001030526",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030526",
+    "title": "1.75% inflation-linked Federal bond 2009 (2020)",
+    "coupon": "1.75",
+    "accrual_start": "15. April 2009",
+    "first_coupon": "15. April 2010",
+    "maturity": "15.04.2020",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030542",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030542",
+    "title": "0.10% inflation-linked Federal bond 2012 (2023)",
+    "coupon": "0.10",
+    "accrual_start": "23. M\u00e4rz 2012",
+    "first_coupon": "15. April 2013",
+    "maturity": "15.04.2023",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030559",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030559",
+    "title": "0.50% inflation-linked Federal bond 2014 (2030)",
+    "coupon": "0.50",
+    "accrual_start": "10. April 2014",
+    "first_coupon": "15. April 2015 Next interest payment 15. April 2027",
+    "maturity": "15.04.2030",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030567",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030567",
+    "title": "0.10% inflation-linked Federal bond 2015 (2026)",
+    "coupon": "0.10",
+    "accrual_start": "12. M\u00e4rz 2015",
+    "first_coupon": "15. April 2016",
+    "maturity": "15.04.2026",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030575",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030575",
+    "title": "0.10% inflation-linked Federal bond 2015 (2046)",
+    "coupon": "0.10",
+    "accrual_start": "15. April 2015",
+    "first_coupon": "15. April 2016 Next interest payment 15. April 2027",
+    "maturity": "15.04.2046",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030583",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030583",
+    "title": "0.10% inflation-linked Federal bond 2021 (2033)",
+    "coupon": "0.10",
+    "accrual_start": "11. Februar 2021",
+    "first_coupon": "15. April 2022 Next interest payment 15. April 2027",
+    "maturity": "15.04.2033",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030584",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030584",
+    "title": "",
+    "coupon": null,
+    "accrual_start": null,
+    "first_coupon": null,
+    "maturity": null,
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030708",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030708",
+    "title": "0.00% Green Federal bond 2020 (2030)",
+    "coupon": "-",
+    "accrual_start": "19. Juni 2020",
+    "first_coupon": "15. August 2021 Next interest payment 15. August 2027",
+    "maturity": "15.08.2030",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030716",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030716",
+    "title": "0.00% Green Federal note ",
+    "coupon": "-",
+    "accrual_start": "10. Juli 2020",
+    "first_coupon": "10. Oktober 2021",
+    "maturity": "10.10.2025",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030724",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030724",
+    "title": "0.00% Green Federal bond 2021 (2050)",
+    "coupon": "-",
+    "accrual_start": "15. August 2020",
+    "first_coupon": "15. August 2021 Next interest payment 15. August 2027",
+    "maturity": "15.08.2050",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030732",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030732",
+    "title": "0.00% Green Federal bond 2021 (2031)",
+    "coupon": "-",
+    "accrual_start": "18. Juni 2021",
+    "first_coupon": "15. August 2022 Next interest payment 15. August 2027",
+    "maturity": "15.08.2031",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030740",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030740",
+    "title": "1.30 % Green Federal note ",
+    "coupon": "1.30",
+    "accrual_start": "30. Juni 2022",
+    "first_coupon": "15. Oktober 2023 Next interest payment 15. Oktober 2027",
+    "maturity": "15.10.2027",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001030757",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001030757",
+    "title": "1.80% Green Federal bond 2023 (2053)",
+    "coupon": "1.80",
+    "accrual_start": "15. August 2022",
+    "first_coupon": "15. August 2023 Next interest payment 15. August 2027",
+    "maturity": "15.08.2053",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102309",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102309",
+    "title": "1.50% Federal bond 2013 (2023)",
+    "coupon": "1.50",
+    "accrual_start": "18. Januar 2013",
+    "first_coupon": "15. Februar 2014",
+    "maturity": "15.02.2023",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102317",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102317",
+    "title": "1.50% Federal bond 2013 (2023) II",
+    "coupon": "1.50",
+    "accrual_start": "15. Mai 2013",
+    "first_coupon": "15. Mai 2014",
+    "maturity": "15.05.2023",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102325",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102325",
+    "title": "2.00% Federal bond 2013 (2023)",
+    "coupon": "2.00",
+    "accrual_start": "15. August 2013",
+    "first_coupon": "15. August 2014",
+    "maturity": "15.08.2023",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102333",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102333",
+    "title": "1.75% Federal bond 2014 (2024)",
+    "coupon": "1.75",
+    "accrual_start": "31. Januar 2014",
+    "first_coupon": "15. Februar 2015",
+    "maturity": "15.02.2024",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102341",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102341",
+    "title": "2.50% Federal bond 2014 (2046)",
+    "coupon": "2.50",
+    "accrual_start": "28. Februar 2014",
+    "first_coupon": "15. August 2015 Next interest payment 15. August 2027",
+    "maturity": "15.08.2046",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102358",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102358",
+    "title": "1.50% Federal bond 2014 (2024)",
+    "coupon": "1.50",
+    "accrual_start": "15. Mai 2014",
+    "first_coupon": "15. Mai 2015",
+    "maturity": "15.05.2024",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102366",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102366",
+    "title": "1.00% Federal bond 2014 (2024)",
+    "coupon": "1.00",
+    "accrual_start": "15. August 2014",
+    "first_coupon": "15. August 2015",
+    "maturity": "15.08.2024",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102374",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102374",
+    "title": "0,50% Federal bond 2015 (2025)",
+    "coupon": "0.50",
+    "accrual_start": "16. Januar 2015",
+    "first_coupon": "15. Februar 2016",
+    "maturity": "15.02.2025",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102382",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102382",
+    "title": "1.00 % Federal bond 2015 (2025)",
+    "coupon": "1.00",
+    "accrual_start": "17. Juli 2015",
+    "first_coupon": "15. August 2016",
+    "maturity": "15.08.2025",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102390",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102390",
+    "title": "0.50% Federal bond 2016 (2026)",
+    "coupon": "0.50",
+    "accrual_start": "15. Januar 2016",
+    "first_coupon": "15. Februar 2017",
+    "maturity": "15.02.2026",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102408",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102408",
+    "title": "0.00% Federal bond 2016 (2026)",
+    "coupon": "-",
+    "accrual_start": "15. Juli 2016",
+    "first_coupon": "15. August 2017",
+    "maturity": "15.08.2026",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102416",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102416",
+    "title": "0.25% Federal bond 2017 (2027)",
+    "coupon": "0.25",
+    "accrual_start": "13. Januar 2017",
+    "first_coupon": "15. Februar 2018 Next interest payment 15. Februar 2027",
+    "maturity": "15.02.2027",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102424",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102424",
+    "title": "0.50% Federal bond 2017 (2027)",
+    "coupon": "0.50",
+    "accrual_start": "14. Juli 2017",
+    "first_coupon": "15. August 2018 Next interest payment 15. August 2027",
+    "maturity": "15.08.2027",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102432",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102432",
+    "title": "1.25% Federal bond 2017 (2048)",
+    "coupon": "1.25",
+    "accrual_start": "15. August 2017",
+    "first_coupon": "15. August 2018 Next interest payment 15. August 2027",
+    "maturity": "15.08.2048",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102440",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102440",
+    "title": "0.50% Federal bond 2018 (2028)",
+    "coupon": "0.50",
+    "accrual_start": "12. Januar 2018",
+    "first_coupon": "15. Februar 2019 Next interest payment 15. Februar 2027",
+    "maturity": "15.02.2028",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102457",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102457",
+    "title": "0.25% Federal bond 2018 (2028)",
+    "coupon": "0.25",
+    "accrual_start": "13. Juli 2018",
+    "first_coupon": "15. August 2019 Next interest payment 15. August 2027",
+    "maturity": "15.08.2028",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102465",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102465",
+    "title": "0.25% Federal bond 2019 (2029)",
+    "coupon": "0.25",
+    "accrual_start": "11. Januar 2019",
+    "first_coupon": "15. Februar 2020 Next interest payment 15. Februar 2027",
+    "maturity": "15.02.2029",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102473",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102473",
+    "title": "0.00% Federal bond 2019 (2029)",
+    "coupon": "-",
+    "accrual_start": "12. Juli 2019",
+    "first_coupon": "15. August 2020 Next interest payment 15. August 2027",
+    "maturity": "15.08.2029",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102481",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102481",
+    "title": "0.00% Federal bond 2019 (2050)",
+    "coupon": "-",
+    "accrual_start": "15. August 2019",
+    "first_coupon": "15. August 2020 Next interest payment 15. August 2027",
+    "maturity": "15.08.2050",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102499",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102499",
+    "title": "0.00% Federal bond 2020 (2030)",
+    "coupon": "-",
+    "accrual_start": "10. Januar 2020",
+    "first_coupon": "15. Februar 2021 Next interest payment 15. Februar 2027",
+    "maturity": "15.02.2030",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102507",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102507",
+    "title": "0.00% Federal bond 2020 (2030) II",
+    "coupon": "-",
+    "accrual_start": "19. Juni 2020",
+    "first_coupon": "15. August 2021 Next interest payment 15. August 2027",
+    "maturity": "15.08.2030",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102515",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102515",
+    "title": "0.00% Federal bond 2020 (2035)",
+    "coupon": "-",
+    "accrual_start": "13. Mai 2020",
+    "first_coupon": "15. Mai 2021 Next interest payment 15. Mai 2027",
+    "maturity": "15.05.2035",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102523",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102523",
+    "title": "0.00% Federal bond 2020 (2027)",
+    "coupon": "-",
+    "accrual_start": "14. Mai 2020",
+    "first_coupon": "15. November 2021 Next interest payment 15. November 2026",
+    "maturity": "15.11.2027",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102531",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102531",
+    "title": "0.00% Federal bond 2021 (2031)",
+    "coupon": "-",
+    "accrual_start": "08. Januar 2021",
+    "first_coupon": "15. Februar 2022 Next interest payment 15. Februar 2027",
+    "maturity": "15.02.2031",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102549",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102549",
+    "title": "0.00% Federal bond 2021 (2036)",
+    "coupon": "-",
+    "accrual_start": "05. M\u00e4rz 2021",
+    "first_coupon": "15. Mai 2022 Next interest payment 15. Mai 2027",
+    "maturity": "15.05.2036",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102556",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102556",
+    "title": "0,00% Federal bond 2021 (2028)",
+    "coupon": "-",
+    "accrual_start": "29. April 2021",
+    "first_coupon": "15. November 2022 Next interest payment 15. November 2026",
+    "maturity": "15.11.2028",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102564",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102564",
+    "title": "0.00% Federal bond 2021 (2031) II",
+    "coupon": "-",
+    "accrual_start": "18. Juni 2021",
+    "first_coupon": "15. August 2022 Next interest payment 15. August 2027",
+    "maturity": "15.08.2031",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102572",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102572",
+    "title": "0.00% Federal bond 2021 (2052)",
+    "coupon": "-",
+    "accrual_start": "15. August 2021",
+    "first_coupon": "15. August 2022 Next interest payment 15. August 2027",
+    "maturity": "15.08.2052",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102580",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102580",
+    "title": "0.00% Federal bond 2022 (2032)",
+    "coupon": "-",
+    "accrual_start": "07. Januar 2022",
+    "first_coupon": "15. Februar 2023 Next interest payment 15. Februar 2027",
+    "maturity": "15.02.2032",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102598",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102598",
+    "title": "1.00% Federal bond 2022 (2038)",
+    "coupon": "1.00",
+    "accrual_start": "29. April 2022",
+    "first_coupon": "15. Mai 2023 Next interest payment 15. Mai 2027",
+    "maturity": "15.05.2038",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102606",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102606",
+    "title": "1.70 % Federal bond 2022 (2032)",
+    "coupon": "1.70",
+    "accrual_start": "08. Juli 2022",
+    "first_coupon": "15. August 2023 Next interest payment 15. August 2027",
+    "maturity": "15.08.2032",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102614",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102614",
+    "title": "1.80% Federal bond 2022 (2053)",
+    "coupon": "1.80",
+    "accrual_start": "15. August 2022",
+    "first_coupon": "15. August 2023 Next interest payment 15. August 2027",
+    "maturity": "15.08.2053",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001102622",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001102622",
+    "title": "2.10 % Federal Bond 2022 (2029)",
+    "coupon": "2.10",
+    "accrual_start": "20. Oktober 2022",
+    "first_coupon": "15. November 2023 Next interest payment 15. November 2026",
+    "maturity": "15.11.2029",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104727",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104727",
+    "title": "0.00% Federal Treasury note 2018 II",
+    "coupon": "-",
+    "accrual_start": "25. Mai 2018",
+    "first_coupon": "12. Juni 2019",
+    "maturity": "12.06.2020",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104735",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104735",
+    "title": "0.00% Federal Treasury note 2018 III",
+    "coupon": "-",
+    "accrual_start": "23. August 2018",
+    "first_coupon": "11. September 2019",
+    "maturity": "11.09.2020",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104743",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104743",
+    "title": "0.00% Federal Treasury note 2018 IV",
+    "coupon": "-",
+    "accrual_start": "15. November 2018",
+    "first_coupon": "11. Dezember 2019",
+    "maturity": "11.12.2020",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104750",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104750",
+    "title": "0.0% Federal Treasury note 2019",
+    "coupon": "-",
+    "accrual_start": "28. Februar 2019",
+    "first_coupon": "12. M\u00e4rz 2020",
+    "maturity": "12.03.2021",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104768",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104768",
+    "title": "0.00% Federal Treasury note 2019 II",
+    "coupon": "-",
+    "accrual_start": "30. Mai 2019",
+    "first_coupon": "11. Juni 2020",
+    "maturity": "11.06.2021",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104776",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104776",
+    "title": "0.00% Federal Treasury note 2019 III",
+    "coupon": "-",
+    "accrual_start": "29. August 2019",
+    "first_coupon": "10. September 2020",
+    "maturity": "10.09.2021",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104784",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104784",
+    "title": "0.00% Federal Treasury note 2019 IV",
+    "coupon": "-",
+    "accrual_start": "14. November 2019",
+    "first_coupon": "10. Dezember 2020",
+    "maturity": "10.12.2021",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104792",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104792",
+    "title": "0.00% Federal Treasury note 2020",
+    "coupon": "-",
+    "accrual_start": "20. Februar 2020",
+    "first_coupon": "11. M\u00e4rz 2021",
+    "maturity": "11.03.2022",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104800",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104800",
+    "title": "0.00% Federal Treasury note 2020 II",
+    "coupon": "-",
+    "accrual_start": "28. Mai 2020",
+    "first_coupon": "10. Juni 2021",
+    "maturity": "10.06.2022",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104818",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104818",
+    "title": "0.00% Federal Treasury note 2020 III",
+    "coupon": "-",
+    "accrual_start": "27. August 2020",
+    "first_coupon": "16. September 2021",
+    "maturity": "16.09.2022",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104826",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104826",
+    "title": "0.00% Federal Treasury note 2020 IV",
+    "coupon": "-",
+    "accrual_start": "26. November 2020",
+    "first_coupon": "15. Dezember 2021",
+    "maturity": "15.12.2022",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104834",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104834",
+    "title": "0.00% Federal Treasury note 2021",
+    "coupon": "-",
+    "accrual_start": "04. Februar 2021",
+    "first_coupon": "10. M\u00e4rz 2022",
+    "maturity": "10.03.2023",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104842",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104842",
+    "title": "0.00% Federal Treasury note 2021 II",
+    "coupon": "-",
+    "accrual_start": "20. Mai 2021",
+    "first_coupon": "16. Juni 2022",
+    "maturity": "16.06.2023",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104859",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104859",
+    "title": "0.00% Federal Treasury note 2021 III",
+    "coupon": "-",
+    "accrual_start": "19. August 2021",
+    "first_coupon": "15. September 2022",
+    "maturity": "15.09.2023",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104867",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104867",
+    "title": "0.00% Federal Treasury note 2021 IV",
+    "coupon": "-",
+    "accrual_start": "11. November 2021",
+    "first_coupon": "15. Dezember 2022",
+    "maturity": "15.12.2023",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104875",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104875",
+    "title": "0.00% Federal Treasury note 2022",
+    "coupon": "-",
+    "accrual_start": "03. Februar 2022",
+    "first_coupon": "15. M\u00e4rz 2023",
+    "maturity": "15.03.2024",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104883",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104883",
+    "title": "0.20% Federal Treasury note 2022 (2024)",
+    "coupon": "0.20",
+    "accrual_start": "19. Mai 2022",
+    "first_coupon": "14. Juni 2023",
+    "maturity": "14.06.2024",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104891",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104891",
+    "title": "0.40% Federal Treasury note 2022 (2024)",
+    "coupon": "0.40",
+    "accrual_start": "11. August 2022",
+    "first_coupon": "13. September 2023",
+    "maturity": "13.09.2024",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001104909",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001104909",
+    "title": "2.20 % Federal Treasury note 2022 (2024)",
+    "coupon": "2.20",
+    "accrual_start": "10. November 2022",
+    "first_coupon": "12. Dezember 2023",
+    "maturity": "12.12.2024",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001134922",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001134922",
+    "title": "6.25% Federal bond 1994 (2024)",
+    "coupon": "6.25",
+    "accrual_start": "04. Januar 1994",
+    "first_coupon": "04. Januar 1995",
+    "maturity": "04.01.2024",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135044",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135044",
+    "title": "6.50% Federal bond 1997 (2027)",
+    "coupon": "6.50",
+    "accrual_start": "04. Juli 1997",
+    "first_coupon": "04. Juli 1998 Next interest payment 04. Juli 2027",
+    "maturity": "04.07.2027",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135069",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135069",
+    "title": "5.625% Federal Bond 1998 (2028)",
+    "coupon": "5.63",
+    "accrual_start": "04. Januar 1998",
+    "first_coupon": "04. Januar 1999 Next interest payment 04. Januar 2027",
+    "maturity": "04.01.2028",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135085",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135085",
+    "title": "4.75% Federal bond 1998 (2028) II",
+    "coupon": "4.75",
+    "accrual_start": "04. Juli 1998",
+    "first_coupon": "04. Juli 1999 Next interest payment 04. Juli 2027",
+    "maturity": "04.07.2028",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135143",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135143",
+    "title": "6.25% Federal bond 2000 (2030)",
+    "coupon": "6.25",
+    "accrual_start": "04. Januar 2000",
+    "first_coupon": "04. Januar 2001 Next interest payment 04. Januar 2027",
+    "maturity": "04.01.2030",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135176",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135176",
+    "title": "5.50% Federal bond 2000 (2031)",
+    "coupon": "5.50",
+    "accrual_start": "27. Oktober 2000",
+    "first_coupon": "04. Januar 2002 Next interest payment 04. Januar 2027",
+    "maturity": "04.01.2031",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135226",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135226",
+    "title": "4.75% Federal bond 2003 (2034)",
+    "coupon": "4.75",
+    "accrual_start": "31. Januar 2003",
+    "first_coupon": "04. Juli 2004 Next interest payment 04. Juli 2027",
+    "maturity": "04.07.2034",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135275",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135275",
+    "title": "4.00% Federal bond 2005 (2037)",
+    "coupon": "4.00",
+    "accrual_start": "04. Januar 2005",
+    "first_coupon": "04. Januar 2006 Next interest payment 04. Januar 2027",
+    "maturity": "04.01.2037",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135325",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135325",
+    "title": "4.25% Federal bond 2007 (2039)",
+    "coupon": "4.25",
+    "accrual_start": "26. Januar 2007",
+    "first_coupon": "04. Juli 2008 Next interest payment 04. Juli 2027",
+    "maturity": "04.07.2039",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135366",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135366",
+    "title": "4.75% Federal bond 2008 (2040)",
+    "coupon": "4.75",
+    "accrual_start": "04. Juli 2008",
+    "first_coupon": "04. Juli 2009 Next interest payment 04. Juli 2027",
+    "maturity": "04.07.2040",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135408",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135408",
+    "title": "3.00% Federal bond 2010 (2020)",
+    "coupon": "3.00",
+    "accrual_start": "30. April 2010",
+    "first_coupon": "04. Juli 2011",
+    "maturity": "04.07.2020",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135416",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135416",
+    "title": "2.25% Federal bond 2010 (2020)",
+    "coupon": "2.25",
+    "accrual_start": "20. August 2010",
+    "first_coupon": "04. September 2011",
+    "maturity": "04.09.2020",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135424",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135424",
+    "title": "2.50% Federal bond 2010 (2021)",
+    "coupon": "2.50",
+    "accrual_start": "26. November 2010",
+    "first_coupon": "04. Januar 2012",
+    "maturity": "04.01.2021",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135432",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135432",
+    "title": "3.25% Federal bond 2010 (2042)",
+    "coupon": "3.25",
+    "accrual_start": "04. Juli 2010",
+    "first_coupon": "04. Juli 2011 Next interest payment 04. Juli 2027",
+    "maturity": "04.07.2042",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135440",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135440",
+    "title": "3.25% Federal bond 2011 (2021)",
+    "coupon": "3.25",
+    "accrual_start": "29. April 2011",
+    "first_coupon": "04. Juli 2012",
+    "maturity": "04.07.2021",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135457",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135457",
+    "title": "2.25% Federal bond 2011 (2021)",
+    "coupon": "2.25",
+    "accrual_start": "26. August 2011",
+    "first_coupon": "04. September 2012",
+    "maturity": "04.09.2021",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135465",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135465",
+    "title": "2.00% Federal bond 2011 (2022)",
+    "coupon": "2.00",
+    "accrual_start": "25. November 2011",
+    "first_coupon": "04. Januar 2013",
+    "maturity": "04.01.2022",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135473",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135473",
+    "title": "1.75% Federal bond 2012 (2022)",
+    "coupon": "1.75",
+    "accrual_start": "13. April 2012",
+    "first_coupon": "04. Juli 2013",
+    "maturity": "04.07.2022",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135481",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135481",
+    "title": "2.50% Federal bond 2012 (2044)",
+    "coupon": "2.50",
+    "accrual_start": "27. April 2012",
+    "first_coupon": "04. Juli 2013 Next interest payment 04. Juli 2027",
+    "maturity": "04.07.2044",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001135499",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001135499",
+    "title": "1.50% Federal bond 2012 (2022)",
+    "coupon": "1.50",
+    "accrual_start": "04. September 2012",
+    "first_coupon": "04. September 2013",
+    "maturity": "04.09.2022",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141711",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141711",
+    "title": "0.00% Federal note - series 171 ",
+    "coupon": "-",
+    "accrual_start": "23. Januar 2015",
+    "first_coupon": "17. April 2016",
+    "maturity": "17.04.2020",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141729",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141729",
+    "title": "0.25% Federal note - series 172 ",
+    "coupon": "0.25",
+    "accrual_start": "03. Juli 2015",
+    "first_coupon": "16. Oktober 2016",
+    "maturity": "16.10.2020",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141737",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141737",
+    "title": "0.00% Federal note - series 173 ",
+    "coupon": "-",
+    "accrual_start": "05. Februar 2016",
+    "first_coupon": "09. April 2017",
+    "maturity": "09.04.2021",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141745",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141745",
+    "title": "0.00% Federal note - series 174 ",
+    "coupon": "-",
+    "accrual_start": "22. Juli 2016",
+    "first_coupon": "08. Oktober 2017",
+    "maturity": "08.10.2021",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141752",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141752",
+    "title": "0.00% Federal note - series 175 ",
+    "coupon": "-",
+    "accrual_start": "03. Februar 2017",
+    "first_coupon": "08. April 2018",
+    "maturity": "08.04.2022",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141760",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141760",
+    "title": "0.00% Federal note - series 176 ",
+    "coupon": "-",
+    "accrual_start": "07. Juli 2017",
+    "first_coupon": "07. Oktober 2018",
+    "maturity": "07.10.2022",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141778",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141778",
+    "title": "0.00% Federal note - series 177 ",
+    "coupon": "-",
+    "accrual_start": "02. Februar 2018",
+    "first_coupon": "14. April 2019",
+    "maturity": "14.04.2023",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141786",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141786",
+    "title": "0.0% Federal note - series 178 ",
+    "coupon": "-",
+    "accrual_start": "27. Juli 2018",
+    "first_coupon": "13. Oktober 2019",
+    "maturity": "13.10.2023",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141794",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141794",
+    "title": "0.00% Federal note - series 179 ",
+    "coupon": "-",
+    "accrual_start": "25. Januar 2019",
+    "first_coupon": "05. April 2020",
+    "maturity": "05.04.2024",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141802",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141802",
+    "title": "0.00% Federal note - series 180 ",
+    "coupon": "-",
+    "accrual_start": "05. Juli 2019",
+    "first_coupon": "18. Oktober 2020",
+    "maturity": "18.10.2024",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141810",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141810",
+    "title": "0.00% Federal note - series 181 ",
+    "coupon": "-",
+    "accrual_start": "31. Januar 2020",
+    "first_coupon": "11. April 2021",
+    "maturity": "11.04.2025",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141828",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141828",
+    "title": "0.00% Federal note - series 182 ",
+    "coupon": "-",
+    "accrual_start": "10. Juli 2020",
+    "first_coupon": "10. Oktober 2021",
+    "maturity": "10.10.2025",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141836",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141836",
+    "title": "0.00% Federal note - series 183 ",
+    "coupon": "-",
+    "accrual_start": "15. Januar 2021",
+    "first_coupon": "10. April 2022",
+    "maturity": "10.04.2026",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141844",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141844",
+    "title": "0.00% Federal note - series 184 ",
+    "coupon": "-",
+    "accrual_start": "09. Juli 2021",
+    "first_coupon": "09. Oktober 2022",
+    "maturity": "09.10.2026",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141851",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141851",
+    "title": "0.00% Federal note - series 185 ",
+    "coupon": "-",
+    "accrual_start": "20. Januar 2022",
+    "first_coupon": "16. April 2023 Next interest payment 16. April 2027",
+    "maturity": "16.04.2027",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE0001141869",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE0001141869",
+    "title": "1.30 % Federal note - series 186 ",
+    "coupon": "1.30",
+    "accrual_start": "30. Juni 2022",
+    "first_coupon": "15. Oktober 2023 Next interest payment 15. Oktober 2027",
+    "maturity": "15.10.2027",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22007",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22007",
+    "title": "2.50 % Federal Treasury note 2023",
+    "coupon": "2.50",
+    "accrual_start": "02. Februar 2023",
+    "first_coupon": "13. M\u00e4rz 2024",
+    "maturity": "13.03.2025",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22015",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22015",
+    "title": "2.80 % Federal Treasury note 2023",
+    "coupon": "2.80",
+    "accrual_start": "27. April 2023",
+    "first_coupon": "12. Juni 2024",
+    "maturity": "12.06.2025",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22023",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22023",
+    "title": "3.10 % Federal Treasury note 2023",
+    "coupon": "3.10",
+    "accrual_start": "20. Juli 2023",
+    "first_coupon": "18. September 2024",
+    "maturity": "18.09.2025",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22031",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22031",
+    "title": "3.10 % Federal Treasury note 2023 II",
+    "coupon": "3.10",
+    "accrual_start": "19. Oktober 2023",
+    "first_coupon": "12. Dezember 2024",
+    "maturity": "12.12.2025",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22049",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22049",
+    "title": "2,50 % Federal Treasury note 2024",
+    "coupon": "2.50",
+    "accrual_start": "01. Februar 2024",
+    "first_coupon": "19. M\u00e4rz 2025",
+    "maturity": "19.03.2026",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22056",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22056",
+    "title": "2.90 % Federal Treasury note 2024",
+    "coupon": "2.90",
+    "accrual_start": "25. April 2024",
+    "first_coupon": "18. Juni 2025",
+    "maturity": "18.06.2026",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22064",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22064",
+    "title": "2.70 % Federal Treasury note 2024",
+    "coupon": "2.70",
+    "accrual_start": "25. Juli 2024",
+    "first_coupon": "17. September 2025",
+    "maturity": "17.09.2026",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22072",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22072",
+    "title": "2,00 % Federal Treasury note 2024",
+    "coupon": "2.00",
+    "accrual_start": "24. Oktober 2024",
+    "first_coupon": "10. Dezember 2025 Next interest payment 10. Dezember 2026",
+    "maturity": "10.12.2026",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22080",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22080",
+    "title": "2.20 % Federal Treasury note 2025",
+    "coupon": "2.20",
+    "accrual_start": "30. Januar 2025",
+    "first_coupon": "11. M\u00e4rz 2026 Next interest payment 11. M\u00e4rz 2027",
+    "maturity": "11.03.2027",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22098",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22098",
+    "title": "1.70 % Federal Treasury note 2025",
+    "coupon": "1.70",
+    "accrual_start": "24. April 2025",
+    "first_coupon": "10. Juni 2026 Next interest payment 10. Juni 2027",
+    "maturity": "10.06.2027",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22106",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22106",
+    "title": "1,90 % Federal Treasury note 2025",
+    "coupon": "1.90",
+    "accrual_start": "17. Juli 2025",
+    "first_coupon": "16. September 2026 Next interest payment 16. September 2027",
+    "maturity": "16.09.2027",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22114",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22114",
+    "title": "2.00 % Federal Treasury note 2025",
+    "coupon": "2.00",
+    "accrual_start": "16. Oktober 2025",
+    "first_coupon": "16. Dezember 2026",
+    "maturity": "16.12.2027",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22122",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22122",
+    "title": "2.10 % Federal Treasury note 2026",
+    "coupon": "2.10",
+    "accrual_start": "29. Januar 2026",
+    "first_coupon": "15. M\u00e4rz 2027",
+    "maturity": "15.03.2028",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22130",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22130",
+    "title": "2.50 % Federal Treasury note 2026",
+    "coupon": "2.50",
+    "accrual_start": "23. April 2026",
+    "first_coupon": "14. Juni 2027",
+    "maturity": "14.06.2028",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22148",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22148",
+    "title": "2.70 % Federal Treasury note 2026",
+    "coupon": "2.70",
+    "accrual_start": "16. Juli 2026",
+    "first_coupon": "13. September 2027",
+    "maturity": "13.09.2028",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU22155",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU22155",
+    "title": "3.00 % Federal Treasury note 2026",
+    "coupon": "3.00",
+    "accrual_start": "08. Oktober 2026",
+    "first_coupon": "13. Dezember 2027",
+    "maturity": "13.12.2028",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU25000",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU25000",
+    "title": "2.20 % Federal note series 187",
+    "coupon": "2.20",
+    "accrual_start": "19. Januar 2023",
+    "first_coupon": "13. April 2024 Next interest payment 13. April 2027",
+    "maturity": "13.04.2028",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU25018",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU25018",
+    "title": "2.40 % Federal note - series 188",
+    "coupon": "2.40",
+    "accrual_start": "15. Juni 2023",
+    "first_coupon": "19. Oktober 2024 Next interest payment 19. Oktober 2027",
+    "maturity": "19.10.2028",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU25026",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU25026",
+    "title": "2.10 % Federal note - series 189",
+    "coupon": "2.10",
+    "accrual_start": "18. Januar 2024",
+    "first_coupon": "12. April 2025 Next interest payment 12. April 2027",
+    "maturity": "12.04.2029",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU25034",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU25034",
+    "title": "2.50 % Federal note - series 190",
+    "coupon": "2.50",
+    "accrual_start": "18. Juli 2024",
+    "first_coupon": "11. Oktober 2025 Next interest payment 11. Oktober 2027",
+    "maturity": "11.10.2029",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU25042",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU25042",
+    "title": "2.40 % Federal note - series 191",
+    "coupon": "2.40",
+    "accrual_start": "16. Januar 2025",
+    "first_coupon": "18. April 2026 Next interest payment 18. April 2027",
+    "maturity": "18.04.2030",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU25059",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU25059",
+    "title": "2.20 % Federal note - series 192",
+    "coupon": "2.20",
+    "accrual_start": "10. Juli 2025",
+    "first_coupon": "10. Oktober 2026 Next interest payment 10. Oktober 2027",
+    "maturity": "10.10.2030",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU25067",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU25067",
+    "title": "2.50 % Federal note - series 193",
+    "coupon": "2.50",
+    "accrual_start": "15. Januar 2026",
+    "first_coupon": "16. April 2027",
+    "maturity": "16.04.2031",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU25075",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU25075",
+    "title": "2.90 % Federal note - series 194",
+    "coupon": "2.90",
+    "accrual_start": "23. Juli 2026",
+    "first_coupon": "08. Oktober 2027",
+    "maturity": "08.10.2031",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU27006",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU27006",
+    "title": "2,40 % Federal bond 2023 (2030)",
+    "coupon": "2.40",
+    "accrual_start": "28. Juli 2023",
+    "first_coupon": "15. November 2024 Next interest payment 15. November 2026",
+    "maturity": "15.11.2030",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU27014",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU27014",
+    "title": "2.50 % Federal bond 2025 (2032)",
+    "coupon": "2.50",
+    "accrual_start": "29. August 2025",
+    "first_coupon": "15. November 2026",
+    "maturity": "15.11.2032",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU27022",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU27022",
+    "title": "3.30 % Federal bond 2026 (2033)",
+    "coupon": "3.30",
+    "accrual_start": "09. Oktober 2026",
+    "first_coupon": "15. November 2027",
+    "maturity": "15.11.2033",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2D004",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2D004",
+    "title": "2.50 % Federal bond 2024 (2054)",
+    "coupon": "2.50",
+    "accrual_start": "06. Februar 2024",
+    "first_coupon": "15. August 2025 Next interest payment 15. August 2027",
+    "maturity": "15.08.2054",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2D012",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2D012",
+    "title": "2.90 % Federal bond 2025 (2056)",
+    "coupon": "2.90",
+    "accrual_start": "12. M\u00e4rz 2025",
+    "first_coupon": "15. August 2026 Next interest payment 15. August 2027",
+    "maturity": "15.08.2056",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2F009",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2F009",
+    "title": "2.60 % Federal bond 2024 (2041)",
+    "coupon": "2.60",
+    "accrual_start": "12. April 2024",
+    "first_coupon": "15. Mai 2025 Next interest payment 15. Mai 2027",
+    "maturity": "15.05.2041",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2T000",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2T000",
+    "title": "3.40% Federal bond 2026 (2047)",
+    "coupon": "3.40",
+    "accrual_start": "03. Februar 2026",
+    "first_coupon": "15. Mai 2027",
+    "maturity": "15.05.2047",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2Z007",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2Z007",
+    "title": "2,30 % Federal bond 2023 (2033)",
+    "coupon": "2.30",
+    "accrual_start": "13. Januar 2023",
+    "first_coupon": "15. Februar 2024 Next interest payment 15. Februar 2027",
+    "maturity": "15.02.2033",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2Z015",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2Z015",
+    "title": "2.60 % Federal bond 2023 (2033)",
+    "coupon": "2.60",
+    "accrual_start": "14. Juli 2023",
+    "first_coupon": "15. August 2024 Next interest payment 15. August 2027",
+    "maturity": "15.08.2033",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2Z023",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2Z023",
+    "title": "2,20 % Federal bond 2024 (2034)",
+    "coupon": "2.20",
+    "accrual_start": "12. Januar 2024",
+    "first_coupon": "15. Februar 2025 Next interest payment 15. Februar 2027",
+    "maturity": "15.02.2034",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2Z031",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2Z031",
+    "title": "2.60 % Federal bond 2024 (2034)",
+    "coupon": "2.60",
+    "accrual_start": "05. Juli 2024",
+    "first_coupon": "15. August 2025 Next interest payment 15. August 2027",
+    "maturity": "15.08.2034",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2Z049",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2Z049",
+    "title": "2.50 % Federal bond 2025 (2035)",
+    "coupon": "2.50",
+    "accrual_start": "10. Januar 2025",
+    "first_coupon": "15. Februar 2026 Next interest payment 15. Februar 2027",
+    "maturity": "15.02.2035",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2Z056",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2Z056",
+    "title": "2.60 % Federal bond 2025 (2035)",
+    "coupon": "2.60",
+    "accrual_start": "04. Juli 2025",
+    "first_coupon": "15. August 2026 Next interest payment 15. August 2027",
+    "maturity": "15.08.2035",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2Z064",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2Z064",
+    "title": "2.90 % Federal bond 2026 (2036)",
+    "coupon": "2.90",
+    "accrual_start": "09. Januar 2026",
+    "first_coupon": "15. Februar 2027",
+    "maturity": "15.02.2036",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU2Z072",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU2Z072",
+    "title": "3,00 % Federal bond 2026 (2036)",
+    "coupon": "3.00",
+    "accrual_start": "10. Juli 2026",
+    "first_coupon": "15. August 2027",
+    "maturity": "15.08.2036",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU35025",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU35025",
+    "title": "2.10 % Green Federal note ",
+    "coupon": "2.10",
+    "accrual_start": "18. Januar 2024",
+    "first_coupon": "12. April 2025 Next interest payment 12. April 2027",
+    "maturity": "12.04.2029",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU3F007",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU3F007",
+    "title": "2.60% Green Federal bond 2026 (2041)",
+    "coupon": "2.60",
+    "accrual_start": "15. Mai 2025",
+    "first_coupon": "15. Mai 2026 Next interest payment 15. Mai 2027",
+    "maturity": "15.05.2041",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU3Z005",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU3Z005",
+    "title": "2.30% Green Federal bond 2023 (2033)",
+    "coupon": "2.30",
+    "accrual_start": "13. Januar 2023",
+    "first_coupon": "15. Februar 2024 Next interest payment 15. Februar 2027",
+    "maturity": "15.02.2033",
+    "status": "fetched"
+  },
+  {
+    "isin": "DE000BU3Z047",
+    "url": "https://www.deutsche-finanzagentur.de/en/federal-securities/factsheet/isin/DE000BU3Z047",
+    "title": "2.50% Green Federal bond 2025 (2035)",
+    "coupon": "2.50",
+    "accrual_start": "10. Januar 2025",
+    "first_coupon": "15. Februar 2026 Next interest payment 15. Februar 2027",
+    "maturity": "15.02.2035",
+    "status": "fetched"
+  }
+]

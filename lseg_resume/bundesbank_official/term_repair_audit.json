@@ -1,0 +1,11 @@
+{
+  "raw_isins": 144,
+  "verified_isins": 143,
+  "excluded_isins": [
+    "DE0001030584"
+  ],
+  "coupon_changed_rows": 1057,
+  "coupon_changed_isins": 2,
+  "maturity_changed_rows": 0,
+  "verified_twin_rows": 9553
+}
